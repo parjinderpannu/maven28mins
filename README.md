@@ -2,3 +2,4 @@
 
 ## Branch = Develop
 test-compile : compile + test-compile
+clean
